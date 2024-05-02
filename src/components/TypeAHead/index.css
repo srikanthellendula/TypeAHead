@@ -1,0 +1,29 @@
+li{
+    list-style-type:none;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: rgb(141, 129, 250);
+    color: white;    
+    margin: 5px 0;
+}
+
+
+input[type='text']{
+    padding: 10px;
+}
+
+h3{
+    color: darkgreen;
+    text-align: center;
+}
+p{
+    color: red;
+}
+.input-cont{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-content: center;
+    align-items: center;
+}
+
